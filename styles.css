@@ -1,0 +1,14 @@
+h1{
+    color:rgb(243, 8, 212);
+    background-color: rgba(221, 160, 221, 0.377);
+    text-align: center;
+    font-family: 'Lucida Sans';
+    font-size: large;
+}
+
+li{
+    color:rgb(243, 8, 212);
+    font-family: 'Lucida Sans';
+    font-size: medium;
+    text-align: left;
+}
