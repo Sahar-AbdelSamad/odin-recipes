@@ -1,14 +1,19 @@
 h1{
-    color:rgb(243, 8, 212);
-    background-color: rgba(221, 160, 221, 0.377);
+    color: #000;
     text-align: center;
-    font-family: 'Lucida Sans';
-    font-size: large;
+    font-family: GTHaptik,Helvetica,Arial,Sans-serif;
+    font-size: 2.875rem;
+    line-height: 1;
 }
 
 li{
-    color:rgb(243, 8, 212);
-    font-family: 'Lucida Sans';
-    font-size: medium;
+    font-size: 1.25rem;
+    line-height: 1.2;
     text-align: left;
+    color: #000;
+    letter-spacing: .04em;
+    padding-top: .625rem;
 }
+* {
+    border: 2px solid red
+  }
